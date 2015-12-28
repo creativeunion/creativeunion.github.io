@@ -8,8 +8,8 @@ Have a bug or an issue with this site? [Open a new issue](https://github.com/cre
 
 ## Authors
 
-Gulnara Mehmandarov
-[Rustam Mehmandarov](https://github.com/mehmandarov)
+* Gulnara Mehmandarov
+* [Rustam Mehmandarov](https://github.com/mehmandarov)
 
 ## Copyright and License
 
