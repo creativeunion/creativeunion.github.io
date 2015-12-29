@@ -1,6 +1,6 @@
 # creativeunion.eu
 
-Source code for the creativeunion.eu. Based on [Start Bootstrap](http://startbootstrap.com/), [Grayscale](http://startbootstrap.com/template-overviews/grayscale/).
+Source code for creativeunion.eu. Based on [Start Bootstrap](http://startbootstrap.com/), [Grayscale](http://startbootstrap.com/template-overviews/grayscale/).
 
 ## Bugs and Issues
 
